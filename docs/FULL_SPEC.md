@@ -348,14 +348,3 @@ The Run Brief is a **separate file** at `docs/RUN_BRIEF.md` and is the only spec
 
 **AI contribution:** AI drafted the speaking points; team members must rehearse, verify every factual claim and assign each beat to an actual speaker.
 
----
-
-## Final team verification checklist (not a replacement for the template)
-- [ ] Confirm team names, roles and section owners.
-- [ ] Inspect code and replace conceptual model assumptions with exact structures.
-- [ ] Replace proposed test names with real `file::test_name` identifiers; run tests and save results.
-- [ ] Confirm which sprints, code reviews, prompts and se-agent runs actually occurred.
-- [ ] Run a real Paperclip integration check or clearly disclose that it remains untested.
-- [ ] Confirm licenses and optional provider costs.
-- [ ] Put Full Spec at `docs/FULL_SPEC.md` and Run Brief at `docs/RUN_BRIEF.md`.
-- [ ] Count Run Brief characters and estimate se-agent cost before a new run.
